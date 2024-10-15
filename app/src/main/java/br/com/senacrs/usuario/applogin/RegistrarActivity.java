@@ -8,6 +8,8 @@ import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import br.com.senacrs.usuario.applogin.R;
+
 public class RegistrarActivity extends AppCompatActivity {
     EditText edNome, edUser, edPas1, edPas2;
     Button btSalvar;

@@ -7,9 +7,8 @@ import android.widget.Button;
 
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.core.graphics.Insets;
-import androidx.core.view.ViewCompat;
-import androidx.core.view.WindowInsetsCompat;
+
+import br.com.senacrs.usuario.applogin.R;
 
 public class MainActivity extends AppCompatActivity {
     Button btEntrar, btRegistar;
@@ -21,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
         btEntrar =(Button) findViewById(R.id.btEntrar);
         btRegistar =(Button) findViewById(R.id.btRegistar);
 
-        btRegistar.setOnClickListener(new View.OnClickListener() {
+        btEntrar.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 Intent i = new Intent(MainActivity.this, LoginActivity.class);

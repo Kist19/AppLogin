@@ -8,6 +8,8 @@ import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import br.com.senacrs.usuario.applogin.R;
+
 public class LoginActivity extends AppCompatActivity {
     EditText edLogin, edPass;
     Button btLogin;
