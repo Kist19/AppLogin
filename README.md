@@ -77,7 +77,7 @@ O design é minimalista e fácil de usar, com foco na simplicidade.
    
    Tela principal do app, onde é possivel ver os cadastros e pesquisar por eles.
    
-![Texto Alternativo](https://github.com/Kist19/AppAgenda/blob/master/lista.jpg?raw=true)
+![Texto Alternativo](https://github.com/Kist19/AppLogin/blob/master/telaprincipal.jpg?raw=true)
 
 2. **Tela Cadastro**
    
