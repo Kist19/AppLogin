@@ -1,15 +1,16 @@
-# **App Agenda**
+# **App Login**
 
-> Aplicativo que cadastra e lista seus usuários.
+> Aplicativo que cadastra e permite a sua autenticação.
 
 ## 📱 Descrição
 
-O **App Agenda** solicita a entrada de dados e lista-os na tela principal.
+O **App Login** que cadastra os usuários e permite que acessem o aplicativo após a autenticação.
 
 ## 🔧 Funcionalidades
 
-- [x] Entrada de dados (Nome, CPF e Telefone)
-- [x] Pesquisa de usuários
+- [x] Entrada de dados (Nome, Login e Senha)
+- [x] Cadastro usuário
+- [x] Autenticação de usuário
 - [x] Interface simples e intuitiva
 
 ## 🚀 Tecnologias Utilizadas
@@ -18,7 +19,7 @@ O **App Agenda** solicita a entrada de dados e lista-os na tela principal.
 - [x] **Java** para desenvolvimento
 - [x] **ConstraintLayout** para interface responsiva
 - [x] **TextView**, **EditText**, **ListView** para entrada e exibição de dados
-- [x] **Menu** para cadastrar e pesquisar usuário
+- [x] **Button** para cadastro e acesso ao app
 
 ## 🛠️ Como Rodar o Projeto
 
@@ -75,19 +76,19 @@ O design é minimalista e fácil de usar, com foco na simplicidade.
 
 1. **Tela Principal**
    
-   Tela principal do app, onde é possivel ver os cadastros e pesquisar por eles.
+   Opção de **Registrar** e **Entrar** no app.
    
 ![Texto Alternativo](https://github.com/Kist19/AppLogin/blob/master/telaprincipal.jpg?raw=true)
 
 2. **Tela Cadastro**
    
-   Onde o cadastro é criado para ser apresentado na tela principal.
+   Cadastro de usuário com o botão de **Salvar**.
    
 ![Texto Alternativo](https://github.com/Kist19/AppLogin/blob/master/cadastrologin.jpg?raw=true)
 
 3. **Tela Autenticação**
    
-   Onde o cadastro é criado para ser apresentado na tela principal.
+   Autenticar o usuário com **Nome** e **Senha**.
    
 ![Texto Alternativo](https://github.com/Kist19/AppLogin/blob/master/autenticacao.jpg?raw=true)
 
