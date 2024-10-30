@@ -83,13 +83,13 @@ O design é minimalista e fácil de usar, com foco na simplicidade.
    
    Onde o cadastro é criado para ser apresentado na tela principal.
    
-![Texto Alternativo](https://github.com/Kist19/AppAgenda/blob/master/cadastro.jpg?raw=true)
+![Texto Alternativo](https://github.com/Kist19/AppLogin/blob/master/cadastrologin.jpg?raw=true)
 
 3. **Tela Autenticação**
    
    Onde o cadastro é criado para ser apresentado na tela principal.
    
-![Texto Alternativo](https://github.com/Kist19/AppAgenda/blob/master/cadastro.jpg?raw=true)
+![Texto Alternativo](https://github.com/Kist19/AppLogin/blob/master/autenticacao.jpg?raw=true)
 
 ## 👨‍💻 Desenvolvedores
 
