@@ -97,4 +97,4 @@ O design é minimalista e fácil de usar, com foco na simplicidade.
 
  ## ✅ Licença 
  
- [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Kist19/AppLogin/tree/master)
+ [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Kist19/AppLogin/blob/master/LICENSE)
