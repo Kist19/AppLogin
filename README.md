@@ -63,19 +63,19 @@ O design é minimalista e fácil de usar, com foco na simplicidade.
  
  ## 🖥️ Telas do Aplicativo
 
-1. **Tela Principal**
+## 1. Tela Principal
    
    Opção de **Registrar** e **Entrar** no app.
    
 ![Texto Alternativo](https://github.com/Kist19/AppLogin/blob/master/telaprincipal.jpg?raw=true)
 
-2. **Tela Cadastro**
+## 2. Tela Cadastro
    
    Cadastro de usuário com o botão de **Salvar**.
    
 ![Texto Alternativo](https://github.com/Kist19/AppLogin/blob/master/cadastrologin.jpg?raw=true)
 
-3. **Tela Autenticação**
+## 3. Tela Autenticação
    
    Autenticar o usuário com **Nome** e **Senha**.
    
